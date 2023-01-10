@@ -1,0 +1,2 @@
+colorama==0.4.6
+iqoptionapi==0.5
